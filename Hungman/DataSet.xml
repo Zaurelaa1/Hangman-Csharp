@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Phrases>
+  <phrase name="orange" hint="a fruit type" />
+  <phrase name="mercedes" hint="a German car brand " />
+  <phrase name="computer" hint="an electronic machine" />
+  <phrase name="netflix" hint="a platform to watch movies" />
+  <phrase name="ethereum" hint="a type of crypto money" />
+  <phrase name="parrots" hint="a bird type" />
+  <phrase name="browny" hint="a dessert with chocolate " />
+  <phrase name="jupiter" hint="the largest planet" />
+  <phrase name="sun" hint="a star" />
+  <phrase name="hamburger" hint="a fast-food" />
+  <phrase name="java" hint="a programming language" />
+  <phrase name="router" hint="a networking device " />
+  <phrase name="moon" hint="a satellite" />
+  <phrase name="macchiato" hint="a coffe type" />
+  <phrase name="guitar" hint="a musical instrument" />
+  <phrase name="car" hint="a wheeled motor vehicle" />
+  <phrase name="red" hint="a color type " />
+  <phrase name="song" hint="a musical phrase" />
+  <phrase name="sky" hint="an abstract sphere" />
+  <phrase name="manti" hint="a turkish food" />
+  <phrase name="roses" hint="a flower type" />
+  <phrase name="west" hint="a cardinal direction" />
+  <phrase name="nike" hint="a clothing brand" />
+  <phrase name="gold" hint="a yellow metal " />
+  <phrase name="cat" hint="a pat" />
+  <phrase name="euro" hint="a money type" />
+  <phrase name="bee" hint="an insect type " />
+  <phrase name="phone" hint="a telecommunications device" />
+  <phrase name="amazon" hint="a technology company" />
+  <phrase name="facebook" hint="a social networking company" />
+</Phrases>

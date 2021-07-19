@@ -1,0 +1,41 @@
+﻿.word {
+    font-size: 50px;
+    color:darkblue;
+}
+
+.btn {
+    margin-right: 8px;
+    margin-bottom: 4px;
+    
+}
+.btn:hover {
+    background-color: blueviolet;
+    color: white;
+}
+   
+.attempts {
+    font-size: 30px;
+   color:blueviolet;
+}
+body {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    background-image: url(hang.gif), url(back.jpg);
+    background-position: right bottom, left center;
+    background-repeat: no-repeat, repeat;
+}
+.button {
+    transition-duration: 0.4s;
+    position:center;
+    display:flex;
+}
+
+    .button:hover {
+        background-color: #ff0000; 
+        color: white;
+    }
+    .hint{
+        font-style: italic;
+        font-size: 20px;
+    }
